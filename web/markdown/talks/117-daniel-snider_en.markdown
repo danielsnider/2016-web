@@ -1,6 +1,6 @@
 ---
 pk: 116
-title: What kind of sorcery is OpenStack?
+title: What kind of data-center sorcery is OpenStack?
 kind: talk
 audience_level: Intermediate
 speakers: Daniel Snider
@@ -12,7 +12,7 @@ github: danielsnider
 photo: daniel-snider.jpg
 ---
 
-Lets clear the air about witchcraft and best practices in data center IT. Come listen to my rants and raves about OpenStack, the software that controls large armies of compute, storage, and networking resources. Why does OpenStack get so much hype and so much hate?
+Lets clear the air about witchcraft and best practices in data-center IT. Come listen to my rants and raves about OpenStack, the software that controls large armies of compute, storage, and networking resources. Why does OpenStack get so much hype and so much hate?
 
 ## Daniel Snider Bio
 
